@@ -4,7 +4,7 @@
   margin-bottom: calc(3rem * var(--tw-space-y-reverse));
 }
 .Footer_footerContainer__iI2Dy {
-  background-image: url(../images/footer-bg.webp);
+  background-image: url(./footer-bg.webp);
   display: flex;
   width: 100%;
   flex-direction: column;
