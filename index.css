@@ -1,0 +1,34 @@
+:root{
+    --blue-dark:#0c0a55;
+    --cream:#f4f4f4;
+    --blue:#1493ee;
+    --blue-light:#ceeaff
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+body,html{
+    background-color:var(--cream)
+}
+body,button,html{
+    font-family:Poppins,sans-serif
+}
+button{
+    outline:none;
+    border:0
+}
+a,button{
+    cursor:pointer
+}
+a{
+    text-decoration:none;
+    color:inherit;
+    display:inline-block
+}
+input{
+    outline:none;
+    border:0;
+    font-family:Poppins,sans-serif
+}
