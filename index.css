@@ -1,0 +1,29 @@
+:root{
+    --blue-dark: #005a9b;
+    --cream:#f4f4f4;
+    --blue: #0099FF;
+    --blue-light: #ceeaff;
+}
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+}
+body,html{
+    background-color:var(--cream)
+}
+body,button,html{
+    font-family: "Unbounded", serif;
+}
+button{
+    outline:none;
+    border:0
+}
+a,button{
+    cursor:pointer
+}
+a{
+    text-decoration:none;
+    color:inherit;
+    display:inline-block
+}
